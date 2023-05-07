@@ -1,0 +1,22 @@
+@media screen and (max-width: 600px) {
+    body{
+        overflow-x: hidden;
+    }
+    header{
+        height: 200px;
+        
+    }
+    .header-container {
+        font-weight: 300;
+    }
+    .tile1{
+        /* flex-direction: column;
+        justify-content: space-between; */
+        
+    }
+
+    
+
+
+
+}
